@@ -9,6 +9,7 @@ This repository contains the code and project files for my personal project focu
 
 ## Relationships
 Utilizing Power BI, I established relationships between multiple datasets, enabling a unified view of the sales data and facilitating comprehensive analysis of sales performance, customer behavior, and product trends.
+![Relationships](https://github.com/phanthao02/Sales_Analysis_Cleasing_Dashboarding/assets/97840552/695e0516-3b88-46e5-b2b9-1dab10b8a962)
 
 ## Dynamic Sales Analysis Dashboard
 The centerpiece of this project is the interactive dashboard created with Power BI. The dashboard presents an intuitive and visually appealing layout, providing stakeholders with a comprehensive view of sales metrics and trends. With dynamic filters, drill-down capabilities, and interactive visualizations, users can effortlessly explore the data, identify patterns, and gain valuable insights. The screenshot below captures a snapshot of the dashboard, showcasing its visuals, key performance indicators, and the ability to explore sales data across different dimensions.
